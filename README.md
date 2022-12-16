@@ -17,9 +17,9 @@ This was a  project in which i learned about the details, advantages, and disadv
    * Don’t forget to push your header file
    * All your header files should be include guarded
 
-# main.c
-  My main_tester are the file for testing not necceassary to be uplaodes to github but i just did for future reference.
+# main.c Files
+  My main_tester are the files for testing not necceassary to be uploades to github but i just did for future reference.
   
  # Author
-  # Ashaolu peter O.
+   Ashaolu peter O.
   pyrotech.sv@gmail.com
